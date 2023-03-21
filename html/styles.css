@@ -1,55 +1,40 @@
-#Banner
+#Kyle
 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    float: left;
-    text-align: center;
-    position:sticky;
-    width: 100%;
-    margin: auto;
-    border: 3px solid #73AD21;
-    background-color: brown;
+text-align: center;
+font-size: 35px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: blueviolet;
+padding: 10px;
+outline: 4px solid black;
+width: auto;
 }
 #home
 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     float: left;
-    border: 2px solid red;
     background-color: #73AD21;
     width: calc(100% / 3);
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    outline: 4px solid black;
 }
 #about
 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     float: left;
-    border: 2px solid red;
     background-color: #73AD21;
     width: calc(100% / 3);
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    outline: 4px solid black;
 }
 #contact
 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     float: left;
-    border: 2px solid red;
     background-color: #73AD21;
+    width: calc(100% / 3);
     text-align: center;
-    width: 100%;
-    font-size: 20px;
-}
-#social
-{
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    float:left;
-    border: 2px solid red;
-    background-color: #73AD21;
-    width:calc(100% / 3);
-    text-align: center;
-    font-size: 20px;
-}
-#group1
-{
-    width:100%;
+    font-size: 30px;
+    outline: 4px solid black;
 }
