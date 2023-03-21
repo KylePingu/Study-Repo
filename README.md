@@ -1,4 +1,4 @@
-# Study-Repo
+# Project One
 This repository is for my Learning!
 
-I use this repository for testing features and sharing what I have learnt.
+This is my first project! (Creating my first website) A portfolio!
