@@ -38,3 +38,61 @@ width: auto;
     font-size: 30px;
     outline: 4px solid black;
 }
+
+a:link { text-decoration: none; }
+
+#homeh
+{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 7px;
+}
+#divh
+{
+    outline: solid black;
+    width: 700px;
+    margin: auto;
+    height: 50px;
+    background-color: cadetblue;
+}
+#divht1
+{
+    width: 850px;
+    margin: auto;
+    padding: 50px;
+}
+#homet1
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#divht2
+{
+    width: 850px;
+    margin: auto;
+    padding: 0px;
+}
+#homet2
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#divht3
+{
+    width: 850px;
+    margin: auto;
+    padding: 150px;
+}
+#homet3
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body
+{
+    background-image: url(/html/images/pexels-henry-&-co-1939485.jpg);
+}
