@@ -1,0 +1,144 @@
+#Kyle
+{
+text-align: center;
+font-size: 35px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: blueviolet;
+padding: 10px;
+outline: 4px solid black;
+width: auto;
+}
+#home
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    background-color: #73AD21;
+    width: calc(100% / 3);
+    text-align: center;
+    font-size: 30px;
+    outline: 4px solid black;
+}
+#about
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    background-color: #73AD21;
+    width: calc(100% / 3);
+    text-align: center;
+    font-size: 30px;
+    outline: 4px solid black;
+}
+#contact
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    background-color: #73AD21;
+    width: calc(100% / 3);
+    text-align: center;
+    font-size: 30px;
+    outline: 4px solid black;
+}
+
+a:link { text-decoration: none; }
+
+#homeh
+{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 7px;
+}
+#divh
+{
+    outline: solid black;
+    width: 700px;
+    margin: auto;
+    height: 50px;
+    background-color: cadetblue;
+}
+#divht1
+{
+    width: 850px;
+    margin: auto;
+    padding: 50px;
+}
+#homet1
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#divht2
+{
+    width: 850px;
+    margin: auto;
+    padding: 0px;
+}
+#homet2
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#divht3
+{
+    width: 850px;
+    margin: auto;
+    padding: 150px;
+    text-align: center;
+}
+#homet3
+{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana,;
+}
+#instagram
+{
+    margin: auto;
+    text-align: center;
+}
+#button1
+{
+    border: 3px solid black;
+    text-align: center;
+}
+#button1:hover
+{
+    background-color:blueviolet;
+    transition: 0.7s;
+
+}
+#facebook
+{
+    margin: auto;
+    text-align: center;
+}
+#email
+{
+    width: 300px;
+    margin:auto;
+}
+ #emailh
+ {
+    text-align: center;
+ }
+ #emailh2
+ {
+    text-align: center;
+    text-decoration: underline;
+ }
+ #number
+{
+    width: 300px;
+    margin:auto;
+}
+ #numberh
+ {
+    text-align: center;
+ }
+ #numberh2
+ {
+    text-align: center;
+    text-decoration: underline;
+ }
